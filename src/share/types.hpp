@@ -106,6 +106,17 @@ enum class key_code : uint32_t {
   k = kHIDUsage_KeyboardK,
   l = kHIDUsage_KeyboardL,
 
+  num_1 = kHIDUsage_Keyboard1,
+  num_2 = kHIDUsage_Keyboard2,
+  num_3 = kHIDUsage_Keyboard3,
+  num_4 = kHIDUsage_Keyboard4,
+  num_5 = kHIDUsage_Keyboard5,
+  num_6 = kHIDUsage_Keyboard6,
+  num_7 = kHIDUsage_Keyboard7,
+  num_8 = kHIDUsage_Keyboard8,
+  num_9 = kHIDUsage_Keyboard9,
+  num_0 = kHIDUsage_Keyboard0,
+
   home = kHIDUsage_KeyboardHome,
   page_up = kHIDUsage_KeyboardPageUp,
   delete_forward = kHIDUsage_KeyboardDeleteForward,

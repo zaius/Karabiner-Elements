@@ -201,6 +201,36 @@ public:
         case krbn::key_code::l:
           key_code = krbn::key_code::right_arrow;
           break;
+        case krbn::key_code::num_1:
+          key_code = krbn::key_code::f1;
+          break;
+        case krbn::key_code::num_2:
+          key_code = krbn::key_code::f2;
+          break;
+        case krbn::key_code::num_3:
+          key_code = krbn::key_code::f3;
+          break;
+        case krbn::key_code::num_4:
+          key_code = krbn::key_code::f4;
+          break;
+        case krbn::key_code::num_5:
+          key_code = krbn::key_code::f5;
+          break;
+        case krbn::key_code::num_6:
+          key_code = krbn::key_code::f6;
+          break;
+        case krbn::key_code::num_7:
+          key_code = krbn::key_code::f7;
+          break;
+        case krbn::key_code::num_8:
+          key_code = krbn::key_code::f8;
+          break;
+        case krbn::key_code::num_9:
+          key_code = krbn::key_code::f9;
+          break;
+        case krbn::key_code::num_0:
+          key_code = krbn::key_code::f10;
+          break;
         default:
           break;
         }
